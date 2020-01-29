@@ -129,7 +129,7 @@ server](files/KAT/).
 - Reza Azarderakhsh, Florida Atlantic University
 - Matthew Campagna, Amazon
 - Craig Costello, Microsoft Research
-- Luca De Feo, Université de Versailles – Saint-Quentin
+- Luca De Feo, IBM Research Zürich
 - Basil Hess, Infosec Global
 - Amir Jalali, Florida Atlantic University
 - Brian Koziel, Texas Instruments
